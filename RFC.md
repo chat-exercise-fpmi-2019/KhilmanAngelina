@@ -10,5 +10,6 @@ Fixed size messages
 Valid username options
 Numbers
 Words (strings without spaces)
+
 Command replies
 Error codes (200 OK, 400 Failed, etc.)
